@@ -1,7 +1,11 @@
 <div class="contact">
   <ul class="contact__list list-reset">
+      <a href="{{ site.data.settings.onlygmail }}" style="color:rgb(0,0,0);">
+        <p style="text-decoration: underline;">{{ site.data.settings.onlygmailname }}</p>
+      </a>
+    <!--Put the following part as the footnote-->
     {% if site.data.settings.gmail1 %}
-      <li><a href="{{ site.data.settings.twitter }}"><i class="ion ion-logo-twitter"></i></a></li>
+      <li><a href="{{ site.data.settings.gmail1 }}"><i class="ion ion-ios-mail":before></i></a></li>
     {% else %} {% endif %}
 
     {% if site.data.settings.twitter %}
