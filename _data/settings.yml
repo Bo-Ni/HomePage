@@ -9,15 +9,16 @@ description: This is the homepage of Bo Ni
 # Author Settings
 author:
   name: Bo Ni
-  image: self_1.JPG
-  say-hello: Hello, I’m <strong>Bo Ni</strong>
-  bio: 
+  image: self_3.JPG
+  say-hello: Hello, my name is <strong>Bo Ni</strong>
+  bio: I am a PhD student majoring in Solid Mechanics under the supervision of <strong><a href="https://www.brown.edu/research/projects/nanomechanics-engineering-biological-systems/home">Prof. Huajian Gao</a></strong> at Brown university. Prior to Brown, I received my B.Sc. in Engineering Mechanics and M.Sc. in Solid Mechanics from Xi’an Jiaotong University in 2011 and 2013. <br><br>My PhD research interest focuses on understanding <strong>fracture mechanics</strong> of two-dimensional (<strong>2D</strong>) materials and exploring effective strategies to toughen them and related systems. My motivation comes from the fact that 2D materials, as atomic-thin brittle layers, are intrinsically vulnerable to fracture, and for robust applications it is essential to toughen them. The objective of my research is to improve the understanding of fracture in 2D materials, especially on how crack interacts with <strong>topological defects</strong>, <strong>out-of-plane curvature</strong>, <strong>edge stress</strong> and <strong>interlayer friction</strong>, and to take advantages of these coupling to design tough 2D materials and their integrated systems. To study these coupling, I adopt a multiscale framework integrating density functional theory (<strong>DFT</strong>) calculation, molecular dynamics (<strong>MD</strong>) simulation, phase field/phase field crystal (<strong>PF/PFC</strong>) modeling, continuum mechanics (<strong>CM</strong>) as well as data-driven machine learning (<strong>ML</strong>) approaches. I also collaborate with some amazing experimental researchers. I hope my research would help to unveil the new aspects of solid mechanics in 2D materials and inspire rational design of robust 2D material devices and related systems.<br><br>For more detials, please visit my research description pages.
 
 # Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
 
 
 #-------------------------------
 # Contact links
+gmail: mailto:bo_ni@brown.edu # email address
 twitter: https://twitter.com/ # Add your Twitter handle
 facebook: https://facebook.com/ # Add your Facebook handle
 dribbble: https://dribbble.com/ # Add your Dribbble handle
